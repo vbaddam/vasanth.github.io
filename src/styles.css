@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-style {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+html {
+  background: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  width: 100%;
+  margin: auto;
+  min-width: 600px;
+  max-width: 1920px;
+}
